@@ -1,24 +1,66 @@
 const concerts = [
 {
-date:"18 Jul 2026",
-city:"Berlin",
-venue:"Olympiastadion",
-eventTime:"7:00 PM (CEST)",
-datetime:"2026-07-18T19:00:00+02:00"
+date:"1 Jul 2026",
+city:"Brussels, Belgium",
+venue:"King Baudouin Stadium",
+eventTime:"8:00 PM (CEST)",
+datetime:"2026-07-01T20:00:00+02:00"
 },
+
 {
-date:"25 Jul 2026",
-city:"London",
-venue:"Wembley Stadium",
-eventTime:"7:30 PM (BST)",
-datetime:"2026-07-25T19:30:00+01:00"
+date:"2 Jul 2026",
+city:"Brussels, Belgium",
+venue:"King Baudouin Stadium",
+eventTime:"8:00 PM (CEST)",
+datetime:"2026-07-02T20:00:00+02:00"
 },
+
+{
+date:"6 Jul 2026",
+city:"London, United Kingdom",
+venue:"Tottenham Hotspur Stadium",
+eventTime:"8:00 PM (BST)",
+datetime:"2026-07-06T20:00:00+01:00"
+},
+
+{
+date:"7 Jul 2026",
+city:"London, United Kingdom",
+venue:"Tottenham Hotspur Stadium",
+eventTime:"8:00 PM (BST)",
+datetime:"2026-07-07T20:00:00+01:00"
+},
+
+{
+date:"17 Jul 2026",
+city:"Paris, France",
+venue:"Stade De France",
+eventTime:"8:00 PM (BST)",
+datetime:"2026-07-17T20:00:00+02:00"
+},
+
+{
+date:"18 Jul 2026",
+city:"Paris, France",
+venue:"Stade De France",
+eventTime:"8:00 PM (BST)",
+datetime:"2026-07-18T20:00:00+02:00"
+},
+
+{
+date:"1 Aug 2026",
+city:"East Rutherford, New Jersey USA",
+venue:"Metlife Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-01T20:00:00-04:00"
+}
+
 {
 date:"2 Aug 2026",
-city:"Kuala Lumpur",
-venue:"Bukit Jalil Stadium",
-eventTime:"7:00 PM (MYT)",
-datetime:"2026-08-02T19:00:00+08:00"
+city:"East Rutherford, New Jersey USA",
+venue:"Metlife Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-02T20:00:00-04:00"
 }
 ];
 
