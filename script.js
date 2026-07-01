@@ -60,7 +60,7 @@ date:"2 Aug 2026",
 city:"East Rutherford, New Jersey USA",
 venue:"Metlife Stadium",
 eventTime:"8:00 PM (ET)",
-datetime:"2026-08-02T20:00:00+04:00"
+datetime:"2026-08-02T20:00:00-04:00"
 }
 ];
 
