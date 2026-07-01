@@ -1,0 +1,63 @@
+const concerts = [
+{
+date:"18 Jul 2026",
+city:"Berlin",
+venue:"Olympiastadion",
+eventTime:"7:00 PM (CEST)",
+datetime:"2026-07-18T19:00:00+02:00"
+},
+{
+date:"25 Jul 2026",
+city:"London",
+venue:"Wembley Stadium",
+eventTime:"7:30 PM (BST)",
+datetime:"2026-07-25T19:30:00+01:00"
+},
+{
+date:"2 Aug 2026",
+city:"Kuala Lumpur",
+venue:"Bukit Jalil Stadium",
+eventTime:"7:00 PM (MYT)",
+datetime:"2026-08-02T19:00:00+08:00"
+}
+];
+
+function local(dt){
+return new Date(dt).toLocaleString(undefined,{
+weekday:"short",
+day:"2-digit",
+month:"short",
+year:"numeric",
+hour:"2-digit",
+minute:"2-digit",
+hour12:true
+});
+}
+
+const tbody=document.getElementById("concertBody");
+const cards=document.getElementById("cardContainer");
+
+concerts.forEach(c=>{
+
+// TABLE
+tbody.innerHTML += `
+<tr>
+<td>${c.date}</td>
+<td>${c.city}</td>
+<td>${c.venue}</td>
+<td>${c.eventTime}</td>
+<td>${local(c.datetime)}</td>
+</tr>`;
+
+// CARDS
+cards.innerHTML += `
+<div class="card">
+<h3>${c.city}</h3>
+<p><b>Date:</b> ${c.date}</p>
+<p><b>Venue:</b> ${c.venue}</p>
+<p><b>Event:</b> ${c.eventTime}</p>
+<p><b>Your Local Time:</b> ${local(c.datetime)}</p>
+</div>
+`;
+
+});

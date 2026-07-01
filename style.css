@@ -1,0 +1,131 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Segoe UI, sans-serif;
+}
+
+body{
+background:#0f0b1f;
+color:#fff;
+}
+
+/* BANNER */
+/* Hero container configuration */
+.hero-banner {
+width: 100%;
+height: auto;
+overflow: hidden;
+}
+
+/* Responsive image behavior */
+.hero-banner img {
+width: 100%;
+height: 100%;
+object-fit: cover; /* Crops and scales without stretching */
+bject-position: center; /* Centers the image frame */
+display: block; /* Prevents white spaces at the bottom */
+}
+
+/* Mobile adaptation */
+@media (max-width: 768px) {
+.hero-banner {
+height: 40vh; /* Lowers height on smaller screens */
+}
+}
+
+
+/* HERO */
+.hero{
+height:auto;
+width: 100%;
+background:url("images/banner-tour.jpg") center/cover no-repeat;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;  
+position: relative;
+}
+
+.hero-content{
+background:rgba(0,0,0,0.35); /* lighter subtle dark tint */
+padding:20px 30px;
+border-radius:12px;
+backdrop-filter:blur(6px);
+}
+
+.hero h1{
+font-size:clamp(2rem,5vw,3.5rem);
+color:#d7b3ff;
+}
+
+.hero p{
+margin-top:8px;
+opacity:0.9;
+}
+
+/* LAYOUT */
+.container{
+max-width:1100px;
+margin:auto;
+padding:25px;
+}
+
+.intro{
+background:#1a1433;
+padding:18px;
+border-radius:12px;
+margin:20px 0;
+}
+
+/* TABLE */
+.table-wrapper{
+overflow-x:auto;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+background:#1a1433;
+border-radius:12px;
+overflow:hidden;
+min-width:750px;
+}
+
+th{
+background:#3b1f66;
+padding:14px;
+}
+
+td{
+padding:14px;
+text-align:center;
+border-bottom:1px solid rgba(255,255,255,0.1);
+}
+
+/* CARDS */
+.cards{
+display:none;
+gap:15px;
+flex-direction:column;
+}
+
+.card{
+background:#1a1433;
+padding:15px;
+border-radius:12px;
+}
+
+/* FOOTER */
+footer{
+text-align:center;
+padding:20px;
+opacity:0.6;
+margin-top:30px;
+}
+
+/* MOBILE */
+@media(max-width:768px){
+table{display:none;}
+.cards{display:flex;}
+}

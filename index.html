@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>World Tour Schedule</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+ <div class="hero-banner">
+        <img src="images/banner-tour.jpg" alt="Hero Banner">
+    </div>
+
+  <!--<header class="hero">
+<div class="hero-content">
+    <h1>🎤 World Tour Schedule</h1>
+    <p>Official concert dates auto-convert to your local time</p>
+  </div>
+</header>-->
+
+<div class="container">
+
+<section class="intro">
+  <h2>About the Tour</h2>
+  <p>Event times are shown in venue time. Your Local Time column adapts automatically.</p>
+</section>
+
+<!-- TABLE VIEW (desktop) -->
+<div class="table-wrapper">
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>City</th>
+<th>Venue</th>
+<th>Event Time</th>
+<th>Your Local Time</th>
+</tr>
+</thead>
+<tbody id="concertBody"></tbody>
+</table>
+</div>
+
+<!-- CARD VIEW (mobile) -->
+<div class="cards" id="cardContainer"></div>
+
+</div>
+
+<footer>© 2026 World Tour</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
