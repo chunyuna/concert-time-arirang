@@ -19,16 +19,16 @@ datetime:"2026-07-02T20:00:00+02:00"
 date:"6 Jul 2026",
 city:"London, United Kingdom",
 venue:"Tottenham Hotspur Stadium",
-eventTime:"8:00 PM (BST)",
-datetime:"2026-07-06T20:00:00+01:00"
+eventTime:"7:00 PM (BST)",
+datetime:"2026-07-06T19:00:00+01:00"
 },
 
 {
 date:"7 Jul 2026",
 city:"London, United Kingdom",
 venue:"Tottenham Hotspur Stadium",
-eventTime:"8:00 PM (BST)",
-datetime:"2026-07-07T20:00:00+01:00"
+eventTime:"7:00 PM (BST)",
+datetime:"2026-07-07T19:00:00+01:00"
 },
 
 {
