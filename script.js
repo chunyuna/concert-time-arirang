@@ -32,6 +32,22 @@ datetime:"2026-07-07T19:00:00+01:00"
 },
 
 {
+date:"11 Jul 2026",
+city:"Munich, Germany",
+venue:"Allianz Stadium",
+eventTime:"8:00 PM (CEST)",
+datetime:"2026-07-11T20:00:00+02:00"
+},
+
+{
+date:"12 Jul 2026",
+city:"Munich, Germany",
+venue:"Allianz Stadium",
+eventTime:"8:00 PM (CEST)",
+datetime:"2026-07-12T20:00:00+02:00"
+},
+  
+{
 date:"17 Jul 2026",
 city:"Paris, France",
 venue:"Stade De France",
@@ -45,6 +61,14 @@ city:"Paris, France",
 venue:"Stade De France",
 eventTime:"8:00 PM (BST)",
 datetime:"2026-07-18T20:00:00+02:00"
+},
+
+{
+date:"19 Jul 2026",
+city:"East Rutherford, New Jersey USA",
+venue:"Metlife Stadium",
+eventTime:"4:00 PM (ET)",
+datetime:"2026-07-19T16:00:00-04:00"
 },
 
 {
