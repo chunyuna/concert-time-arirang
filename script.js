@@ -66,7 +66,7 @@ datetime:"2026-07-18T20:00:00+02:00"
 {
 date:"19 Jul 2026",
 city:"East Rutherford, New Jersey USA",
-venue:"Metlife Stadium",
+venue:"Metlife Stadium (FIFA Halftime)",
 eventTime:"4:00 PM (ET)",
 datetime:"2026-07-19T16:00:00-04:00"
 },
