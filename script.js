@@ -85,7 +85,39 @@ city:"Arlington, Texas USA",
 venue:"AT&T Stadium",
 eventTime:"8:00 PM (CT)",
 datetime:"2026-08-16T20:00:00-05:00"
-}  
+},
+
+{
+date:"22 Aug 2026",
+city:"Toronto, Ontario, Canada",
+venue:"Rogers Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-22T20:00:00-04:00"
+},
+
+{
+date:"23 Aug 2026",
+city:"Toronto, Ontario, Canada",
+venue:"Rogers Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-23T20:00:00-04:00"
+},
+
+{
+date:"27 Aug 2026",
+city:"Chicago, Illinois USA",
+venue:"Soldier Field",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-27T20:00:00-04:00"
+},
+
+{
+date:"28 Aug 2026",
+city:"Chicago, Illinois USA",
+venue:"Soldier Field",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-28T20:00:00-04:00"
+}
 ];
 
 function local(dt){
