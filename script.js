@@ -37,7 +37,55 @@ city:"East Rutherford, New Jersey USA",
 venue:"Metlife Stadium",
 eventTime:"8:00 PM (ET)",
 datetime:"2026-08-02T20:00:00-04:00"
-}
+},
+
+{
+date:"5 Aug 2026",
+city:"Foxborough, Massachusetts USA",
+venue:"Gillette Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-05T20:00:00-04:00"
+},
+
+{
+date:"6 Aug 2026",
+city:"Foxborough, Massachusetts USA",
+venue:"Gillette Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-06T20:00:00-04:00"
+},
+
+{
+date:"10 Aug 2026",
+city:"Baltimore, Maryland USA",
+venue:"M&T Bank Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-10T20:00:00-04:00"
+},
+
+{
+date:"11 Aug 2026",
+city:"Baltimore, Maryland USA",
+venue:"M&T Bank Stadium",
+eventTime:"8:00 PM (ET)",
+datetime:"2026-08-11T20:00:00-04:00"
+},
+
+{
+date:"15 Aug 2026",
+city:"Arlington, Texas USA",
+venue:"AT&T Stadium",
+eventTime:"8:00 PM (CT)",
+datetime:"2026-08-15T20:00:00-05:00"
+},
+
+{
+date:"16 Aug 2026",
+city:"Arlington, Texas USA",
+venue:"AT&T Stadium",
+eventTime:"8:00 PM (CT)",
+datetime:"2026-08-16T20:00:00-05:00"
+}  
 ];
 
 function local(dt){
