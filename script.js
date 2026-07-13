@@ -1,53 +1,5 @@
 const concerts = [
 {
-date:"1 Jul 2026",
-city:"Brussels, Belgium",
-venue:"King Baudouin Stadium",
-eventTime:"8:00 PM (CEST)",
-datetime:"2026-07-01T20:00:00+02:00"
-},
-
-{
-date:"2 Jul 2026",
-city:"Brussels, Belgium",
-venue:"King Baudouin Stadium",
-eventTime:"8:00 PM (CEST)",
-datetime:"2026-07-02T20:00:00+02:00"
-},
-
-{
-date:"6 Jul 2026",
-city:"London, United Kingdom",
-venue:"Tottenham Hotspur Stadium",
-eventTime:"7:00 PM (BST)",
-datetime:"2026-07-06T19:00:00+01:00"
-},
-
-{
-date:"7 Jul 2026",
-city:"London, United Kingdom",
-venue:"Tottenham Hotspur Stadium",
-eventTime:"7:00 PM (BST)",
-datetime:"2026-07-07T19:00:00+01:00"
-},
-
-{
-date:"11 Jul 2026",
-city:"Munich, Germany",
-venue:"Allianz Stadium",
-eventTime:"8:00 PM (CEST)",
-datetime:"2026-07-11T20:00:00+02:00"
-},
-
-{
-date:"12 Jul 2026",
-city:"Munich, Germany",
-venue:"Allianz Stadium",
-eventTime:"8:00 PM (CEST)",
-datetime:"2026-07-12T20:00:00+02:00"
-},
-  
-{
 date:"17 Jul 2026",
 city:"Paris, France",
 venue:"Stade De France",
