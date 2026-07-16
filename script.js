@@ -3,16 +3,16 @@ const concerts = [
 date:"17 Jul 2026",
 city:"Paris, France",
 venue:"Stade De France",
-eventTime:"8:00 PM (BST)",
-datetime:"2026-07-17T20:00:00+02:00"
+eventTime:"7:30 PM (BST)",
+datetime:"2026-07-17T19:30:00+02:00"
 },
 
 {
 date:"18 Jul 2026",
 city:"Paris, France",
 venue:"Stade De France",
-eventTime:"8:00 PM (BST)",
-datetime:"2026-07-18T20:00:00+02:00"
+eventTime:"7:30 PM (BST)",
+datetime:"2026-07-18T19:30:00+02:00"
 },
 
 {
