@@ -1,29 +1,5 @@
 const concerts = [
 {
-date:"17 Jul 2026",
-city:"Paris, France",
-venue:"Stade De France",
-eventTime:"7:30 PM (BST)",
-datetime:"2026-07-17T19:30:00+02:00"
-},
-
-{
-date:"18 Jul 2026",
-city:"Paris, France",
-venue:"Stade De France",
-eventTime:"7:30 PM (BST)",
-datetime:"2026-07-18T19:30:00+02:00"
-},
-
-{
-date:"19 Jul 2026",
-city:"East Rutherford, New Jersey USA",
-venue:"Metlife Stadium (FIFA Halftime)",
-eventTime:"4:00 PM (ET)",
-datetime:"2026-07-19T16:00:00-04:00"
-},
-
-{
 date:"1 Aug 2026",
 city:"East Rutherford, New Jersey USA",
 venue:"Metlife Stadium",
