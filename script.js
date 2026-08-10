@@ -1,37 +1,5 @@
 const concerts = [
 {
-date:"1 Aug 2026",
-city:"East Rutherford, New Jersey USA",
-venue:"Metlife Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-01T20:00:00-04:00"
-},
-
-{
-date:"2 Aug 2026",
-city:"East Rutherford, New Jersey USA",
-venue:"Metlife Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-02T20:00:00-04:00"
-},
-
-{
-date:"5 Aug 2026",
-city:"Foxborough, Massachusetts USA",
-venue:"Gillette Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-05T20:00:00-04:00"
-},
-
-{
-date:"6 Aug 2026",
-city:"Foxborough, Massachusetts USA",
-venue:"Gillette Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-06T20:00:00-04:00"
-},
-
-{
 date:"10 Aug 2026",
 city:"Baltimore, Maryland USA",
 venue:"M&T Bank Stadium",
@@ -93,6 +61,38 @@ city:"Chicago, Illinois USA",
 venue:"Soldier Field",
 eventTime:"8:00 PM (ET)",
 datetime:"2026-08-28T20:00:00-04:00"
+},
+
+{
+date:"1 Sept 2026",
+city:"Los Angeles, California USA",
+venue:"SoFi Stadium",
+eventTime:"8:00 PM (PT)",
+datetime:"2026-09-01T20:00:00-07:00"
+},
+
+{
+date:"2 Sept 2026",
+city:"Los Angeles, California USA",
+venue:"SoFi Stadium",
+eventTime:"8:00 PM (PT)",
+datetime:"2026-09-02T20:00:00-07:00"
+},
+
+{
+date:"5 Sept 2026",
+city:"Los Angeles, California USA",
+venue:"SoFi Stadium",
+eventTime:"8:00 PM (PT)",
+datetime:"2026-09-05T20:00:00-07:00"
+},
+
+{
+date:"6 Sept 2026",
+city:"Los Angeles, California USA",
+venue:"SoFi Stadium",
+eventTime:"8:00 PM (PT)",
+datetime:"2026-09-06T20:00:00-07:00"
 }
 ];
 
