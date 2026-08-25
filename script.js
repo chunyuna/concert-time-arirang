@@ -76,7 +76,7 @@ date:"3 Oct 2026",
 city:"Bogota, Columbia",
 venue:"Nemesio Camacho El Campín Stadium",
 eventTime:"8:00 PM (COT)",
-datetime:"2026-10-02T20:00:00-05:00"
+datetime:"2026-10-03T20:00:00-05:00"
 }  
 ];
 
