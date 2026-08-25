@@ -1,45 +1,5 @@
 const concerts = [
 {
-date:"10 Aug 2026",
-city:"Baltimore, Maryland USA",
-venue:"M&T Bank Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-10T20:00:00-04:00"
-},
-
-{
-date:"11 Aug 2026",
-city:"Baltimore, Maryland USA",
-venue:"M&T Bank Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-11T20:00:00-04:00"
-},
-
-{
-date:"15 Aug 2026",
-city:"Arlington, Texas USA",
-venue:"AT&T Stadium",
-eventTime:"8:00 PM (CT)",
-datetime:"2026-08-15T20:00:00-05:00"
-},
-
-{
-date:"16 Aug 2026",
-city:"Arlington, Texas USA",
-venue:"AT&T Stadium",
-eventTime:"8:00 PM (CT)",
-datetime:"2026-08-16T20:00:00-05:00"
-},
-
-{
-date:"22 Aug 2026",
-city:"Toronto, Ontario, Canada",
-venue:"Rogers Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-22T20:00:00-04:00"
-},
-
-{
 date:"23 Aug 2026",
 city:"Toronto, Ontario, Canada",
 venue:"Rogers Stadium",
@@ -93,7 +53,31 @@ city:"Los Angeles, California USA",
 venue:"SoFi Stadium",
 eventTime:"8:00 PM (PT)",
 datetime:"2026-09-06T20:00:00-07:00"
-}
+},
+
+{
+date:"18 Sept 2026",
+city:"Las Vegas",
+venue:"T-Mobile Arena, iheart radio festival",
+eventTime:"7:00 PM (PT)",
+datetime:"2026-09-18T19:00:00-07:00"
+},
+
+{
+date:"2 Oct 2026",
+city:"Las Vegas",
+venue:"Nemesio Camacho El Campín Stadium",
+eventTime:"8:00 PM (COT)",
+datetime:"2026-10-02T20:00:00-05:00"
+},
+
+{
+date:"3 Oct 2026",
+city:"Las Vegas",
+venue:"Nemesio Camacho El Campín Stadium",
+eventTime:"8:00 PM (COT)",
+datetime:"2026-10-02T20:00:00-05:00"
+}  
 ];
 
 function local(dt){
