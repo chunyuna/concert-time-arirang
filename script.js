@@ -1,29 +1,5 @@
 const concerts = [
 {
-date:"23 Aug 2026",
-city:"Toronto, Ontario, Canada",
-venue:"Rogers Stadium",
-eventTime:"8:00 PM (ET)",
-datetime:"2026-08-23T20:00:00-04:00"
-},
-
-{
-date:"27 Aug 2026",
-city:"Chicago, Illinois USA",
-venue:"Soldier Field",
-eventTime:"8:00 PM (CDT)",
-datetime:"2026-08-27T20:00:00-05:00"
-},
-
-{
-date:"28 Aug 2026",
-city:"Chicago, Illinois USA",
-venue:"Soldier Field",
-eventTime:"8:00 PM (CDT)",
-datetime:"2026-08-28T20:00:00-05:00"
-},
-
-{
 date:"1 Sept 2026",
 city:"Los Angeles, California USA",
 venue:"SoFi Stadium",
