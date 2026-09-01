@@ -77,7 +77,23 @@ city:"Bogota, Columbia",
 venue:"Nemesio Camacho El Campín Stadium",
 eventTime:"8:00 PM (COT)",
 datetime:"2026-10-03T20:00:00-05:00"
-}  
+},
+
+{
+date:"9 Oct 2026",
+city:"Lima, Peru",
+venue:"Estadio San Marcos",
+eventTime:"8:00 PM (PET)",
+datetime:"2026-10-09T20:00:00-05:00"
+},
+
+{
+date:"10 Oct 2026",
+city:"Lima, Peru",
+venue:"Estadio San Marcos",
+eventTime:"8:00 PM (PET)",
+datetime:"2026-10-10T20:00:00-05:00"
+}
 ];
 
 function local(dt){
