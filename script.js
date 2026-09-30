@@ -1,45 +1,5 @@
 const concerts = [
 {
-date:"1 Sept 2026",
-city:"Los Angeles, California USA",
-venue:"SoFi Stadium",
-eventTime:"8:00 PM (PT)",
-datetime:"2026-09-01T20:00:00-07:00"
-},
-
-{
-date:"2 Sept 2026",
-city:"Los Angeles, California USA",
-venue:"SoFi Stadium",
-eventTime:"8:00 PM (PT)",
-datetime:"2026-09-02T20:00:00-07:00"
-},
-
-{
-date:"5 Sept 2026",
-city:"Los Angeles, California USA",
-venue:"SoFi Stadium",
-eventTime:"8:00 PM (PT)",
-datetime:"2026-09-05T20:00:00-07:00"
-},
-
-{
-date:"6 Sept 2026",
-city:"Los Angeles, California USA",
-venue:"SoFi Stadium",
-eventTime:"8:00 PM (PT)",
-datetime:"2026-09-06T20:00:00-07:00"
-},
-
-{
-date:"18 Sept 2026",
-city:"Las Vegas",
-venue:"T-Mobile Arena, iheart radio festival",
-eventTime:"7:00 PM (PT)",
-datetime:"2026-09-18T19:00:00-07:00"
-},
-
-{
 date:"2 Oct 2026",
 city:"Bogota, Columbia",
 venue:"Nemesio Camacho El Campín Stadium",
@@ -69,7 +29,31 @@ city:"Lima, Peru",
 venue:"Estadio San Marcos",
 eventTime:"8:00 PM (PET)",
 datetime:"2026-10-10T20:00:00-05:00"
-}
+},
+
+{
+date:"14 Oct 2026",
+city:"Santiago, Chileo",
+venue:"Estadio Nacional",
+eventTime:"8:00 PM (CLST)",
+datetime:"2026-10-14T20:00:00-03:00"
+},
+
+{
+date:"16 Oct 2026",
+city:"Santiago, Chileo",
+venue:"Estadio Nacional",
+eventTime:"8:00 PM (CLST)",
+datetime:"2026-10-16T20:00:00-03:00"
+},
+
+{
+date:"17 Oct 2026",
+city:"Santiago, Chileo",
+venue:"Estadio Nacional",
+eventTime:"8:00 PM (CLST)",
+datetime:"2026-10-17T20:00:00-03:00"
+}   
 ];
 
 function local(dt){
