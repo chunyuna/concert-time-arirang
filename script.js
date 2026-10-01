@@ -53,7 +53,55 @@ city:"Santiago, Chile",
 venue:"Estadio Nacional",
 eventTime:"8:00 PM (CLST)",
 datetime:"2026-10-17T20:00:00-03:00"
-}   
+},
+
+{
+date:"21 Oct 2026",
+city:"Buenos Aires, Argentina",
+venue:"Estadio San Marcos",
+eventTime:"8:00 PM (ART)",
+datetime:"2026-10-21T20:00:00-03:00"
+},
+
+{
+date:"23 Oct 2026",
+city:"Buenos Aires, Argentina",
+venue:"Estadio San Marcos",
+eventTime:"8:00 PM (ART)",
+datetime:"2026-10-23T20:00:00-03:00"
+},
+
+{
+date:"24 Oct 2026",
+city:"Buenos Aires, Argentina",
+venue:"Estadio San Marcos",
+eventTime:"8:00 PM (ART)",
+datetime:"2026-10-24T20:00:00-03:00"
+},
+
+{
+date:"28 Oct 2026",
+city:"São Paulo, Brazil",
+venue:"Morumbi Stadium",
+eventTime:"8:00 PM (BRT)",
+datetime:"2026-10-28T20:00:00-03:00"
+},
+
+{
+date:"30 Oct 2026",
+city:"São Paulo, Brazil",
+venue:"Morumbi Stadium",
+eventTime:"8:00 PM (BRT)",
+datetime:"2026-10-30T20:00:00-03:00"
+},
+
+{
+date:"31 Oct 2026",
+city:"São Paulo, Brazil",
+venue:"Morumbi Stadium",
+eventTime:"8:00 PM (BRT)",
+datetime:"2026-10-31T20:00:00-03:00"
+} 
 ];
 
 function local(dt){
