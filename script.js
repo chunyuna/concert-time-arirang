@@ -33,7 +33,7 @@ datetime:"2026-10-10T20:00:00-05:00"
 
 {
 date:"14 Oct 2026",
-city:"Santiago, Chileo",
+city:"Santiago, Chile",
 venue:"Estadio Nacional",
 eventTime:"8:00 PM (CLST)",
 datetime:"2026-10-14T20:00:00-03:00"
@@ -41,7 +41,7 @@ datetime:"2026-10-14T20:00:00-03:00"
 
 {
 date:"16 Oct 2026",
-city:"Santiago, Chileo",
+city:"Santiago, Chile",
 venue:"Estadio Nacional",
 eventTime:"8:00 PM (CLST)",
 datetime:"2026-10-16T20:00:00-03:00"
@@ -49,7 +49,7 @@ datetime:"2026-10-16T20:00:00-03:00"
 
 {
 date:"17 Oct 2026",
-city:"Santiago, Chileo",
+city:"Santiago, Chile",
 venue:"Estadio Nacional",
 eventTime:"8:00 PM (CLST)",
 datetime:"2026-10-17T20:00:00-03:00"
