@@ -1,18 +1,10 @@
 const concerts = [
 {
-date:"2 Oct 2026",
-city:"Bogota, Columbia",
-venue:"Nemesio Camacho El Campín Stadium",
-eventTime:"8:00 PM (COT)",
-datetime:"2026-10-02T20:00:00-05:00"
-},
-
-{
-date:"3 Oct 2026",
-city:"Bogota, Columbia",
-venue:"Nemesio Camacho El Campín Stadium",
-eventTime:"8:00 PM (COT)",
-datetime:"2026-10-03T20:00:00-05:00"
+date:"7 Oct 2026",
+city:"Lima, Peru",
+venue:"Estadio San Marcos",
+eventTime:"8:00 PM (PET)",
+datetime:"2026-10-07T20:00:00-05:00"
 },
 
 {
