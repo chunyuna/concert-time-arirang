@@ -62,7 +62,63 @@ city:"Kuala Lumpur, Malaysia",
 venue:"TM Stadium Nasional",
 eventTime:"7:30 PM (MYT)",
 datetime:"2026-12-13T19:30:00+08:00"
-}    
+},
+
+{
+date:"17 Dec 2026",
+city:"Singapore",
+venue:"National Stadium",
+eventTime:"7:00 PM (SGT)",
+datetime:"2026-12-17T19:00:00+08:00"
+}, 
+
+{
+date:"19 Dec 2026",
+city:"Singapore",
+venue:"National Stadium",
+eventTime:"7:00 PM (SGT)",
+datetime:"2026-12-19T19:00:00+08:00"
+},
+
+{
+date:"20 Dec 2026",
+city:"Singapore",
+venue:"National Stadium",
+eventTime:"7:00 PM (SGT)",
+datetime:"2026-12-20T19:00:00+08:00"
+},
+
+{
+date:"22 Dec 2026",
+city:"Singapore",
+venue:"National Stadium",
+eventTime:"7:00 PM (SGT)",
+datetime:"2026-12-22T19:00:00+08:00"
+},
+
+{
+date:"26 Dec 2026",
+city:"Jakarta, Indonesia",
+venue:"Gelora Bung Karno Main Stadium",
+eventTime:"7:00 PM (WIB)",
+datetime:"2026-12-26T19:00:00+07:00"
+},
+
+{
+date:"27 Dec 2026",
+city:"Jakarta, Indonesia",
+venue:"Gelora Bung Karno Main Stadium",
+eventTime:"7:00 PM (WIB)",
+datetime:"2026-12-27T19:00:00+07:00"
+},
+
+{
+date:"29 Dec 2026",
+city:"Jakarta, Indonesia",
+venue:"Gelora Bung Karno Main Stadium",
+eventTime:"7:00 PM (WIB)",
+datetime:"2026-12-29T19:00:00+07:00"
+} 
 
 ];
 
