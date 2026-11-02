@@ -155,7 +155,7 @@ cards.innerHTML += `
 <h3>${c.city}</h3>
 <p><b>Date:</b> ${c.date}</p>
 <p><b>Venue:</b> ${c.venue}</p>
-<p><b>Event:</b> ${c.eventTime}</p>
+<p><b>Concert Time:</b> ${c.eventTime}</p>
 <p><b>Your Local Time:</b> ${local(c.datetime)}</p>
 </div>
 `;
