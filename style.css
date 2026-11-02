@@ -72,7 +72,7 @@ padding:25px;
 }
 
 .intro{
-background:#1a1433;
+background:#3b1f66;
 padding:18px;
 border-radius:12px;
 margin:20px 0;
@@ -86,14 +86,14 @@ overflow-x:auto;
 table{
 width:100%;
 border-collapse:collapse;
-background:#1a1433;
+background:#3b1f66;
 border-radius:12px;
 overflow:hidden;
 min-width:750px;
 }
 
 th{
-background:#3b1f66;
+background:#a674f7;
 padding:14px;
 }
 
