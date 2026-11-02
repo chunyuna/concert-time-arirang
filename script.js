@@ -22,7 +22,47 @@ city:"Kaohsiung City, Taiwan",
 venue:"Kaohsiung National Stadium",
 eventTime:"7:00 PM (CST)",
 datetime:"2026-11-22T19:00:00+08:00"
-}
+},
+
+{
+date:"3 Dec 2026",
+city:"Bangkok, Thailand",
+venue:"Rajamangala National Stadium",
+eventTime:"7:00 PM (IST)",
+datetime:"2026-12-03T19:00:00+07:00"
+},
+
+{
+date:"5 Dec 2026",
+city:"Bangkok, Thailand",
+venue:"Rajamangala National Stadium",
+eventTime:"7:00 PM (IST)",
+datetime:"2026-12-05T19:00:00+07:00"
+},
+
+{
+date:"6 Dec 2026",
+city:"Bangkok, Thailand",
+venue:"Rajamangala National Stadium",
+eventTime:"7:00 PM (IST)",
+datetime:"2026-12-06T19:00:00+07:00"
+},
+
+{
+date:"12 Dec 2026",
+city:"Kuala Lumpur, Malaysia",
+venue:"TM Stadium Nasional",
+eventTime:"7:30 PM (MYT)",
+datetime:"2026-12-12T19:30:00+08:00"
+},
+
+{
+date:"13 Dec 2026",
+city:"Kuala Lumpur, Malaysia",
+venue:"TM Stadium Nasional",
+eventTime:"7:30 PM (MYT)",
+datetime:"2026-12-13T19:30:00+08:00"
+}    
 
 ];
 
